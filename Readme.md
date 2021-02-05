@@ -1,11 +1,20 @@
-# Idea
+# Ideia
 
-Criar sistema web para enviar mensagens em lista de contatos via WhatsApp web para facilitar o envio de  mensagens para lista de contatos em grande escala. 
+Programa para facilitar o usuário a enviar mensagens para uma grande quantidade de contatos via Whatsapp Web.
 
 # Funcionalidades
 
-* carregar lista contatos,
-* verificar nº (contatos) repetidos,
-* campo para digitar mensagem a ser enviada,
-* relatório confirmação recebimento mensagem,
-* configuração envio mensagens
+* Importar lista de contatos em arquivo nos formatos Xls, Doc e Txt.
+* Incluir contatos manuais.
+* Verificar nº (Contatos) repetidos.
+* Campo para digitar mensagem a ser enviada.
+    - Com opcões:
+        - Emojis
+        - **Negrito**
+        - *Itálico*
+        - ~~Sublinhado~~
+* Configuração de envio de mensagem.
+    - Com opções:
+        - Tempo de inserção da mensagem a ser enviada.
+        - Tempo de espera para enviar a mensagem entre um e outro contato.
+* Relatório de confirmação de recebimento da mensagem.
