@@ -5,8 +5,8 @@ Programa para facilitar o usuário a enviar mensagens para uma grande quantidade
 # Funcionalidades
 
 * Importar lista de contatos em arquivo nos formatos Xls, Doc e Txt.
+* Verificar nº (Contatos) repetidos e importar somente um.
 * Incluir contatos manuais.
-* Verificar nº (Contatos) repetidos.
 * Campo para digitar mensagem a ser enviada.
     - Com opcões:
         - Emojis
